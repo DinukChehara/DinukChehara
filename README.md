@@ -1,4 +1,4 @@
-<h2 align="left">Cool bio innit?</h2>
+<h2 align="left">Tomqnto</h2>
 
 ###
 
@@ -21,9 +21,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/tomqnto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/905732551518322718" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
