@@ -1,4 +1,5 @@
-<h2 align="left">Tomqnto</h2>
+
+<img alt="account banner" src="https://github.com/DinukChehara/DinukChehara/blob/main/acc_banner.png" style="transform: scale(1);" />
 
 ###
 
